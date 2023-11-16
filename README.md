@@ -12,4 +12,5 @@ git.training
 
 I am adding changes to show automatic merging, i now have mods in master and simple-changes
 
-I am adding this line for rebase example
+I am adding this line for rebase example from master
+now Im adding this line as more changes from myfeature branch
