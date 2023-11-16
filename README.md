@@ -11,3 +11,5 @@ I have added to show comparison for working directory vs git repository
 git.training
 
 I am adding changes to show automatic merging, i now have mods in master and simple-changes
+
+I am adding this line for rebase example
