@@ -1,1 +1,2 @@
 This is my first message, im creating this file and merging with master(local)
+this is second line to show automatic merge
