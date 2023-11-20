@@ -1,3 +1,4 @@
 This is my first message, im creating this file and merging with master(local)
 this is second line to show automatic merge
 this is my third line to start showing rebasing
+this is my fourth edit, I am editing in github to show pull with rebase
